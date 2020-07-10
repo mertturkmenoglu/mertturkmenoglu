@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**mertturkmenoglu/mertturkmenoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Junior Software Developer
+#### My Interests
+Android Development | Programming Languages | Compilers
+### Contact Me
+- Website:  [Website](https://mertturkmenoglu.github.io/)
+- LinkedIn: [@mert-turkmenoglu](https://linkedin.com/in/mert-turkmenoglu/)
+- Medium:   [@mertturkmenoglu](https://medium.com/@mertturkmenoglu)
+- Twitter:  [@capreaee](https://twitter.com/capreaee)
+* * *
+#### Proficient
+Kotlin | Java | Python | JavaScript | C | Firebase | Mongo | PostgreSQL
+#### Familiar
+Node.js | Express | React | C# | Haskell |  F#
+* * *
+* I'm currently working on [**Vevericka**](https://github.com/mertturkmenoglu/vevericka): An Android social media application with Firebase backend.
