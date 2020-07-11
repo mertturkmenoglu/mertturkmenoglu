@@ -1,8 +1,6 @@
 ### Junior Software Developer
 #### My Interests
 Android Development | Programming Languages | Compilers
-
-* * *
 #### Proficient
 Kotlin | Java | Python | JavaScript | C | Firebase | Mongo | PostgreSQL
 #### Familiar
