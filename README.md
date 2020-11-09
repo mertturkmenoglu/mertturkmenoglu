@@ -11,6 +11,7 @@ Vue.js | React.js | Node.js | Express.js | Spring Framework
 Git | GitHub | Linux | Jira | Firebase | Android Studio
 * * *
 ### Recent Articles
+* [GraphQL’e Giriş: GraphQL Nedir?](https://mertturkmenoglu.medium.com/graphql-giris-c75b7769250b)
 * [Understand the Key Functional Programming Concepts](https://medium.com/swlh/understand-the-key-functional-programming-concepts-bca440f1bcd6)
 * [Kotlin Scope Fonksiyonlarını Anlamak](https://medium.com/@mertturkmenoglu/kotlin-scope-fonksiyonlarini-anlamak-ac597cf1ae67)
 * * *
