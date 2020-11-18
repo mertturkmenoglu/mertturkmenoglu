@@ -1,4 +1,8 @@
 ## Software Engineer
+[![Linkedin](https://img.shields.io/badge/-mert--turkmenoglu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mert-turkmenoglu/)](https://www.linkedin.com/in/mert-turkmenoglu/)
+[![Medium](https://img.shields.io/badge/-@mertturkmenoglu-03a57a?style=flat-square&labelColor=03a57a&logo=Medium&link=https://medium.com/@mertturkmenoglu/)](https://medium.com/@mertturkmenoglu)
+[![Twitter](https://img.shields.io/badge/-capreaee-blue?style=flat-square&labelColor=blue&logo=Twitter&link=https://twitter.com/capreaee/)](https://twitter.com/capreaee/)
+[![Website](https://img.shields.io/badge/-Website-black?style=flat-square&labelColor=black&logo=Firefox&link=https://mertturkmenoglu.github.io/)](https://mertturkmenoglu.github.io/)
 #### My Interests
 Android Development | Web Development | Programming Languages
 #### Proficient
@@ -17,8 +21,3 @@ Git | GitHub | Linux | Jira | Firebase | Android Studio
 * * *
 * I'm a senior year computer engineering student at Yildiz Technical University.
 * I'm currently working on [**Vevericka**](https://github.com/mertturkmenoglu/vevericka-web-client): A full-stack chat application.
-## Contact Me
-### - Website:  [Website](https://mertturkmenoglu.github.io/)
-### - LinkedIn: [@mert-turkmenoglu](https://linkedin.com/in/mert-turkmenoglu/)
-### - Medium:   [@mertturkmenoglu](https://medium.com/@mertturkmenoglu)
-### - Twitter:  [@capreaee](https://twitter.com/capreaee)
