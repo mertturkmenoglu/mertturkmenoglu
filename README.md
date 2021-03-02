@@ -4,15 +4,17 @@
 [![Twitter](https://img.shields.io/badge/-capreaee-blue?style=flat-square&labelColor=blue&logo=Twitter&link=https://twitter.com/capreaee/)](https://twitter.com/capreaee/)
 [![Website](https://img.shields.io/badge/-Website-black?style=flat-square&labelColor=black&logo=Firefox&link=https://mertturkmenoglu.github.io/)](https://mertturkmenoglu.github.io/)
 #### My Interests
-Android Development | Web Development | Programming Languages
+Full Stack Web Development | Programming Languages | Design Patterns | Android Development
 #### Proficient
-Kotlin | Java | JavaScript | C
+Kotlin | Java | JavaScript | TypeScript | C
 #### Familiar
-Python | C# | TypeScript | Haskell | MongoDB | PostgreSQL
+Python | Go | C# | Haskell
+#### Databases
+MongoDB | PostgreSQL | Cloud Firestore | Redis
 #### Frameworks
 Vue.js | React.js | Node.js | Express.js | Spring Framework
 #### Tools
-Git | GitHub | Linux | Jira | Firebase | Android Studio
+Git | GitHub | Docker | Linux | Jira | Firebase | Android Studio | Postman | Heroku | Google Cloud
 * * *
 ## Recent Articles
 * [GraphQL’e Giriş: GraphQL Nedir?](https://mertturkmenoglu.medium.com/graphql-giris-c75b7769250b)
