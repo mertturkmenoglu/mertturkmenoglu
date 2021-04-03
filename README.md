@@ -17,9 +17,10 @@ Vue.js | React.js | Node.js | Express.js | Spring Framework
 Git | GitHub | Docker | Linux | Jira | Firebase | Android Studio | Postman | Heroku | Google Cloud
 * * *
 ## Recent Articles
-* [GraphQL’e Giriş: GraphQL Nedir?](https://mertturkmenoglu.medium.com/graphql-giris-c75b7769250b)
-* [Understand the Key Functional Programming Concepts](https://medium.com/swlh/understand-the-key-functional-programming-concepts-bca440f1bcd6)
-* [Kotlin Scope Fonksiyonlarını Anlamak](https://medium.com/@mertturkmenoglu/kotlin-scope-fonksiyonlarini-anlamak-ac597cf1ae67)
+* [GraphQL'e Giriş-2: Query ve Mutasyon(TR)](https://mertturkmenoglu.medium.com/graphql-giris-2-f3e3031f07f6)
+* [GraphQL’e Giriş: GraphQL Nedir?(TR)](https://mertturkmenoglu.medium.com/graphql-giris-c75b7769250b)
+* [Understand the Key Functional Programming Concepts(EN)](https://medium.com/swlh/understand-the-key-functional-programming-concepts-bca440f1bcd6)
+* [Kotlin Scope Fonksiyonlarını Anlamak(TR)](https://medium.com/@mertturkmenoglu/kotlin-scope-fonksiyonlarini-anlamak-ac597cf1ae67)
 * * *
 * I'm a senior year computer engineering student at Yildiz Technical University.
 * I'm currently working on [**Vevericka**](https://github.com/mertturkmenoglu/vevericka-web-client): A full-stack chat application.
