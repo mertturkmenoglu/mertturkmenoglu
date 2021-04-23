@@ -24,4 +24,6 @@ Git | GitHub | Docker | Linux | Jira | Firebase | Android Studio | Postman | Her
 * [Kotlin Scope Fonksiyonlarını Anlamak (TR)](https://medium.com/@mertturkmenoglu/kotlin-scope-fonksiyonlarini-anlamak-ac597cf1ae67)
 * * *
 * I'm a senior year computer engineering student at Yildiz Technical University.
-* I'm currently working on [**Vevericka**](https://github.com/mertturkmenoglu/vevericka-web-client): A full-stack chat application.
+* I'm currently working on
+  * [**Vevericka**](https://github.com/mertturkmenoglu/vevericka-web-client): A full-stack chat application.
+  * [**Avalanche**](https://gihub.com/mertturkmenoglu/avalanche): A full-stack productivity / task manager application
