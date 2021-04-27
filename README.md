@@ -17,6 +17,7 @@ Vue.js | React.js | Node.js | Express.js | Spring Framework
 Git | GitHub | Docker | Linux | Jira | Firebase | Android Studio | Postman | Heroku | Google Cloud
 * * *
 ## Recent Articles
+* [Dependency Injection in TypeScript (EN)](https://levelup.gitconnected.com/dependency-injection-in-typescript-2f66912d143c)
 * [GraphQL'e Giriş-3: Node.js ve GraphQL (TR)](https://mertturkmenoglu.medium.com/graphql-giris-3-574ed5e2c98b)
 * [GraphQL'e Giriş-2: Query ve Mutasyon (TR)](https://mertturkmenoglu.medium.com/graphql-giris-2-f3e3031f07f6)
 * [GraphQL’e Giriş: GraphQL Nedir? (TR)](https://mertturkmenoglu.medium.com/graphql-giris-c75b7769250b)
