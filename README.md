@@ -14,7 +14,7 @@ MongoDB | PostgreSQL | Cloud Firestore | Redis
 #### Frameworks
 Vue.js | React.js | Node.js | Express.js | Spring Framework
 #### Tools
-Git | GitHub | Docker | Linux | Jira | Firebase | Android Studio | Postman | Heroku | Google Cloud
+Git | GitHub | Docker | Linux | Jira | Firebase | Android Studio | Postman | Heroku | Google Cloud | Jest | JUnit
 * * *
 ## Recent Articles
 * [Dependency Injection in TypeScript (EN)](https://levelup.gitconnected.com/dependency-injection-in-typescript-2f66912d143c)
