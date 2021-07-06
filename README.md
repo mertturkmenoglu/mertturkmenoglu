@@ -6,15 +6,15 @@
 #### My Interests
 Full Stack Web Development | Programming Languages | Design Patterns | Android Development
 #### Proficient
-Kotlin | Java | JavaScript | TypeScript | C
+Kotlin | Java | TypeScript | JavaScript | Python | C
 #### Familiar
-Python | Go | C# | Haskell
+Go | C# | Haskell | Rust
 #### Databases
 MongoDB | PostgreSQL | Cloud Firestore | Redis
 #### Frameworks
-Vue.js | React.js | Node.js | Express.js | Spring Framework
+Vue.js | React.js | Next.js | NestJS | Node.js | Express.js | Spring Framework | Jest | TailwindCSS
 #### Tools
-Git | GitHub | Docker | Linux | Jira | Firebase | Android Studio | Postman | Heroku | Google Cloud | Jest | JUnit
+Git | GitHub | Docker | Linux | Jira | Postman | Heroku | Google Cloud
 * * *
 ## Recent Articles
 * [Dependency Injection in TypeScript (EN)](https://levelup.gitconnected.com/dependency-injection-in-typescript-2f66912d143c)
