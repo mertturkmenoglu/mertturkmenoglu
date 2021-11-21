@@ -2,7 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/-mert--turkmenoglu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mert-turkmenoglu/)](https://www.linkedin.com/in/mert-turkmenoglu/)
 [![Medium](https://img.shields.io/badge/-@mertturkmenoglu-03a57a?style=flat-square&labelColor=03a57a&logo=Medium&link=https://medium.com/@mertturkmenoglu/)](https://medium.com/@mertturkmenoglu)
 [![Twitter](https://img.shields.io/badge/-capreaee-blue?style=flat-square&labelColor=blue&logo=Twitter&link=https://twitter.com/capreaee/)](https://twitter.com/capreaee/)
-[![Website](https://img.shields.io/badge/-Website-black?style=flat-square&labelColor=black&logo=Firefox&link=https://mertturkmenoglu.github.io/)](https://mertturkmenoglu.github.io/)
+[![Website](https://img.shields.io/badge/-Website-black?style=flat-square&labelColor=black&logo=Firefox&link=https://mertturkmenoglu.github.io/)](https://mertturkmenoglu.com/)
 #### My Interests
 Full Stack Web Development | Programming Languages | Design Patterns | Android Development
 #### Proficient
