@@ -1,20 +1,25 @@
 ## Software Engineer
-[![Linkedin](https://img.shields.io/badge/-mert--turkmenoglu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mert-turkmenoglu/)](https://www.linkedin.com/in/mert-turkmenoglu/)
-[![Medium](https://img.shields.io/badge/-@mertturkmenoglu-03a57a?style=flat-square&labelColor=03a57a&logo=Medium&link=https://medium.com/@mertturkmenoglu/)](https://medium.com/@mertturkmenoglu)
-[![Twitter](https://img.shields.io/badge/-capreaee-blue?style=flat-square&labelColor=blue&logo=Twitter&link=https://twitter.com/capreaee/)](https://twitter.com/capreaee/)
-[![Website](https://img.shields.io/badge/-Website-black?style=flat-square&labelColor=black&logo=Firefox&link=https://mertturkmenoglu.github.io/)](https://mertturkmenoglu.com/)
+[LinkedIn](https://www.linkedin.com/in/mert-turkmenoglu/) | 
+[Medium](https://medium.com/@mertturkmenoglu/) |
+[Website](https://mertturkmenoglu.com/) |
+[Vevericka](https://vevericka.app/user/mertturkmenoglu/) |
+[Twitter](https://twitter.com/capreaee/)
 #### My Interests
-Full Stack Web Development | Programming Languages | Design Patterns | Android Development
+Full Stack Web Development | Programming Languages | Design Patterns | Mobile Development
 #### Proficient
 Kotlin | Java | TypeScript | JavaScript | Python | C
 #### Familiar
 Go | C# | Haskell | Rust
 #### Databases
-MongoDB | PostgreSQL | Cloud Firestore | Redis
+PostgreSQL | MySQL | MongoDB | Cloud Firestore | Redis
 #### Frameworks
-Vue.js | React.js | Next.js | NestJS | Node.js | Express.js | Spring Framework | Jest | TailwindCSS
+React.js | Next.js | Vue.js | NestJS | Node.js | Express.js | Spring Framework | React Native 
+#### Front-end
+SCSS | TailwindCSS | React Query | Storybook | Cypress | Jest | Axe Core | Chromatic
+#### Back-end
+Passport | CASL | Prisma | TypeORM | OpenAPI | Supertest
 #### Tools
-Git | GitHub | Docker | Linux | Jira | Postman | Heroku | Google Cloud
+Git | GitHub | Docker | Postman | Linux | Jira | Azue DevOps | Heroku | Google Cloud | Cloudflare | Algolia
 * * *
 ## Recent Articles
 * [Dependency Injection in TypeScript (EN)](https://levelup.gitconnected.com/dependency-injection-in-typescript-2f66912d143c)
