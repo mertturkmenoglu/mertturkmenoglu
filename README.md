@@ -29,7 +29,6 @@ Git | GitHub | Docker | Postman | Linux | Jira | Azue DevOps | Heroku | Google C
 * [Understand the Key Functional Programming Concepts (EN)](https://medium.com/swlh/understand-the-key-functional-programming-concepts-bca440f1bcd6)
 * [Kotlin Scope Fonksiyonlarını Anlamak (TR)](https://medium.com/@mertturkmenoglu/kotlin-scope-fonksiyonlarini-anlamak-ac597cf1ae67)
 * * *
-* I'm a senior year computer engineering student at Yildiz Technical University.
 * I'm currently working on
   * [**Vevericka**](https://github.com/mertturkmenoglu/vevericka-web-client): A full-stack chat application.
   * [**Avalanche**](https://gihub.com/mertturkmenoglu/avalanche): A full-stack productivity / task manager application
