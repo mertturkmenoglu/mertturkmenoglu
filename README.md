@@ -19,7 +19,7 @@ SCSS | TailwindCSS | React Query | Storybook | Cypress | Jest | Axe Core | Chro
 #### Back-end
 Passport | CASL | Prisma | TypeORM | OpenAPI | Supertest
 #### Tools
-Git | GitHub | Docker | Postman | Linux | Jira | Azue DevOps | Heroku | Google Cloud | Cloudflare | Algolia
+Git | GitHub | Docker | Postman | Linux | Jira | Azure DevOps | Heroku | Google Cloud | Cloudflare | Algolia
 * * *
 ## Recent Articles
 * [Dependency Injection in TypeScript (EN)](https://levelup.gitconnected.com/dependency-injection-in-typescript-2f66912d143c)
