@@ -2,24 +2,19 @@
 [LinkedIn](https://www.linkedin.com/in/mert-turkmenoglu/) | 
 [Medium](https://medium.com/@mertturkmenoglu/) |
 [Website](https://mertturkmenoglu.com/) |
-[Vevericka](https://vevericka.app/user/mertturkmenoglu/) |
 [Twitter](https://twitter.com/capreaee/)
 #### My Interests
 Full Stack Web Development | Programming Languages | Design Patterns | Mobile Development
-#### Proficient
-Kotlin | Java | TypeScript | JavaScript | Python | C
-#### Familiar
-Go | C# | Haskell | Rust
+#### Languages
+Kotlin | Java | TypeScript | Go | Python | C
 #### Databases
-PostgreSQL | MySQL | MongoDB | Cloud Firestore | Redis
+PostgreSQL | MySQL | MongoDB | Redis
 #### Frameworks
-React.js | Next.js | Vue.js | NestJS | Node.js | Express.js | Spring Framework | React Native 
-#### Front-end
-SCSS | TailwindCSS | React Query | Storybook | Cypress | Jest | Axe Core | Chromatic
-#### Back-end
-Passport | CASL | Prisma | TypeORM | OpenAPI | Supertest
-#### Tools
-Git | GitHub | Docker | Postman | Linux | Jira | Azure DevOps | Heroku | Google Cloud | Cloudflare | Algolia
+React.js | Next.js | Vue.js | NestJS
+#### Testing
+Storybook | Jest | Cypress | Axe Core | Chromatic
+#### Other
+AWS | Docker | React Native
 * * *
 ## Recent Articles
 * [Dependency Injection in TypeScript (EN)](https://levelup.gitconnected.com/dependency-injection-in-typescript-2f66912d143c)
