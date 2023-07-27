@@ -6,7 +6,7 @@
 #### My Interests
 Full Stack Web Development | Programming Languages | Design Patterns | Mobile Development
 #### Languages
-Kotlin | Java | TypeScript | Go | Python | C
+Go | TypeScript | Kotlin | Java | Python | C
 #### Databases
 PostgreSQL | MySQL | MongoDB | Redis
 #### Frameworks
