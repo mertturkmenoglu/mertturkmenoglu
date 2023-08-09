@@ -15,13 +15,14 @@ React.js | Next.js | Vue.js | NestJS
 Storybook | Jest | Cypress | Axe Core | Chromatic
 #### Other
 AWS | Docker | React Native
-* * *
+
 ## Recent Articles
 * [On Compilers, Interpreters, and Runtime Environments](https://mertturkmenoglu.com/blog/compilers-and-interpreters)
 * [What I Think About Astro](https://mertturkmenoglu.com/blog/what-i-think-about-astro)
 * [Dependency Injection in TypeScript](https://levelup.gitconnected.com/dependency-injection-in-typescript-2f66912d143c)
 * [Understand the Key Functional Programming Concepts](https://medium.com/swlh/understand-the-key-functional-programming-concepts-bca440f1bcd6)
-* * *
+
+***
 * I'm currently working on
   * [**Vevericka**](https://github.com/mertturkmenoglu/vevericka-web-client): A full-stack chat application.
   * [**Avalanche**](https://gihub.com/mertturkmenoglu/avalanche): A full-stack productivity / task manager application
