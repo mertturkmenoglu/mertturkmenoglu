@@ -25,4 +25,4 @@ AWS | Docker | React Native
 ***
 * I'm currently working on
   * [**Vevericka**](https://github.com/mertturkmenoglu/vevericka): A full-stack chat application.
-  * [**Aurora**](https://gihub.com/mertturkmenoglu/aurora): A full-stack eCommerce project.
+  * [**Aurora**](https://github.com/mertturkmenoglu/aurora): A full-stack eCommerce project.
