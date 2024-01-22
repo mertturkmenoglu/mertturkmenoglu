@@ -12,7 +12,7 @@ PostgreSQL | MySQL | MongoDB | Redis
 #### Frameworks
 React.js | Next.js | Vue.js | NestJS
 #### Testing
-Storybook | Jest | Cypress | Axe Core | Chromatic
+Storybook | Jest | Playwright | Axe Core | Chromatic
 #### Other
 AWS | Docker | React Native
 
@@ -24,5 +24,5 @@ AWS | Docker | React Native
 
 ***
 * I'm currently working on
-  * [**Vevericka**](https://github.com/mertturkmenoglu/vevericka): A full-stack chat application.
-  * [**Aurora**](https://github.com/mertturkmenoglu/aurora): A full-stack eCommerce project.
+  * [**Horizon**](https://github.com/mertturkmenoglu/horizon): A full-stack service provider application.
+
