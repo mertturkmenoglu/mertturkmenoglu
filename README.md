@@ -25,4 +25,4 @@ AWS | Docker | React Native
 ***
 * I'm currently working on
   * [**Horizon**](https://github.com/mertturkmenoglu/horizon): A full-stack service provider application.
-
+  * [**Valerie**](https://github.com/mertturkmenoglu/valerie): A Chrome New Tab Extension
