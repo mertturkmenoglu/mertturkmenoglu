@@ -1,18 +1,16 @@
 ## Software Engineer
 [LinkedIn](https://www.linkedin.com/in/mert-turkmenoglu/) | 
-[Medium](https://medium.com/@mertturkmenoglu/) |
 [Website](https://mertturkmenoglu.com/) |
+[Medium](https://medium.com/@mertturkmenoglu/) |
 [Twitter](https://twitter.com/capreaee/)
 #### My Interests
 Full Stack Web Development | Programming Languages | Design Patterns | Mobile Development
 #### Languages
 Go | TypeScript | Kotlin | Java | Python | C
 #### Databases
-PostgreSQL | MySQL | MongoDB | Redis
+PostgreSQL | MongoDB | Redis
 #### Frameworks
-React.js | Next.js | Vue.js | NestJS
-#### Testing
-Storybook | Jest | Playwright | Axe Core | Chromatic
+React.js | Next.js | Vue.js | NestJS | Hono
 #### Other
 AWS | Docker | React Native
 
@@ -24,5 +22,5 @@ AWS | Docker | React Native
 
 ***
 * I'm currently working on
-  * [**Horizon**](https://github.com/mertturkmenoglu/horizon): A full-stack service provider application.
-  * [**Valerie**](https://github.com/mertturkmenoglu/valerie): A Chrome New Tab Extension
+* 
+  * [**Wanderlust**](https://github.com/mertturkmenoglu/wanderlust): An application to review, share, and discover point of interests.
