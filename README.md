@@ -23,4 +23,4 @@ AWS | Docker | React Native
 ***
 * I'm currently working on
 * 
-  * [**Wanderlust**](https://github.com/mertturkmenoglu/wanderlust): An application to review, share, and discover point of interests.
+  * [**Wanderlust**](https://github.com/mertturkmenoglu/wanderlust): An application to review, share, and discover points of interests.
