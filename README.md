@@ -1,6 +1,7 @@
 ## Software Engineer
 [LinkedIn](https://www.linkedin.com/in/mert-turkmenoglu/) | 
 [Website](https://mertturkmenoglu.com/) |
+[Substack](https://mertturkmenoglu.substack.com/) |
 [Medium](https://medium.com/@mertturkmenoglu/) |
 [Twitter](https://twitter.com/capreaee/)
 #### My Interests
