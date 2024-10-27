@@ -3,7 +3,7 @@
 [Website](https://mertturkmenoglu.com/) |
 [Substack](https://mertturkmenoglu.substack.com/) |
 [Medium](https://medium.com/@mertturkmenoglu/) |
-[Twitter](https://twitter.com/capreaee/)
+[Twitter](https://twitter.com/AsyncSquirrel/)
 #### My Interests
 Full Stack Web Development | Programming Languages | Design Patterns | Mobile Development
 #### Languages
